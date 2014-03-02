@@ -1,0 +1,8 @@
+rt:  Data Rate               (kBit / s)
+bf:  Maximal read size       (Byte) 
+dd:  Stream Delta            
+pd:  Discarded Padding Bytes 
+rb:  Fill Size of CBuffer    (kByte)
+pl:  UDP packet loss         
+
+
