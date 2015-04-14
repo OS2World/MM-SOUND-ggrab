@@ -1,0 +1,36 @@
+sserver.o : \
+ sserver.cpp d:\prog\emx\include\sys/types.h \
+ d:\prog\emx\include\stdlib.h d:\prog\emx\include\malloc.h \
+ d:\prog\emx\include\netdb.h d:\prog\emx\include\cpp\iostream \
+ d:\prog\emx\include\cpp\iostream.h d:\prog\emx\include\cpp\streambu.h \
+ d:\prog\emx\include\cpp\libio.h d:\prog\emx\include\cpp\_G_confi.h \
+ d:\prog\emx\include\unistd.h d:\prog\emx\include\string.h \
+ d:\prog\emx\include\stdio.h d:\prog\emx\include\time.h \
+ d:\prog\emx\include\sys/socket.h d:\prog\emx\include\sys/uio.h \
+ d:\prog\emx\include\sys/wait.h d:\prog\emx\include\netinet/in.h \
+ d:\prog\emx\include\sys/param.h d:\prog\emx\include\arpa/inet.h \
+ d:\prog\emx\include\signal.h d:\prog\emx\include\sys/signal.h \
+ sserver.h
+sserver.cpp :
+d:\prog\emx\include\sys/types.h :
+d:\prog\emx\include\stdlib.h :
+d:\prog\emx\include\malloc.h :
+d:\prog\emx\include\netdb.h :
+d:\prog\emx\include\cpp\iostream :
+d:\prog\emx\include\cpp\iostream.h :
+d:\prog\emx\include\cpp\streambu.h :
+d:\prog\emx\include\cpp\libio.h :
+d:\prog\emx\include\cpp\_G_confi.h :
+d:\prog\emx\include\unistd.h :
+d:\prog\emx\include\string.h :
+d:\prog\emx\include\stdio.h :
+d:\prog\emx\include\time.h :
+d:\prog\emx\include\sys/socket.h :
+d:\prog\emx\include\sys/uio.h :
+d:\prog\emx\include\sys/wait.h :
+d:\prog\emx\include\netinet/in.h :
+d:\prog\emx\include\sys/param.h :
+d:\prog\emx\include\arpa/inet.h :
+d:\prog\emx\include\signal.h :
+d:\prog\emx\include\sys/signal.h :
+sserver.h :

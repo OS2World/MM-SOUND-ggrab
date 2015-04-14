@@ -1,0 +1,14 @@
+tools.o : \
+ tools.cpp d:\prog\emx\include\sys/types.h \
+ d:\prog\emx\include\unistd.h d:\prog\emx\include\stdio.h \
+ d:\prog\emx\include\string.h d:\prog\emx\include\stdlib.h \
+ d:\prog\emx\include\malloc.h d:\prog\emx\include\sys/stat.h tools.h
+tools.cpp :
+d:\prog\emx\include\sys/types.h :
+d:\prog\emx\include\unistd.h :
+d:\prog\emx\include\stdio.h :
+d:\prog\emx\include\string.h :
+d:\prog\emx\include\stdlib.h :
+d:\prog\emx\include\malloc.h :
+d:\prog\emx\include\sys/stat.h :
+tools.h :

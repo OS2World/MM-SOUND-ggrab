@@ -1,0 +1,45 @@
+pesstream.o : \
+ pesstream.cpp d:\prog\emx\include\stdlib.h \
+ d:\prog\emx\include\malloc.h d:\prog\emx\include\unistd.h \
+ d:\prog\emx\include\stdio.h d:\prog\emx\include\string.h \
+ d:\prog\emx\include\math.h d:\prog\emx\include\pthread.h \
+ d:\prog\emx\include\sys/cdefs.h d:\prog\emx\include\sys/types.h \
+ d:\prog\emx\include\sys/time.h d:\prog\emx\include\time.h \
+ d:\prog\emx\include\sys/signal.h d:\prog\emx\include\sys/select.h \
+ d:\prog\emx\include\limits.h d:\prog\emx\include\netdb.h \
+ d:\prog\emx\include\errno.h d:\prog\emx\include\sys/errno.h \
+ d:\prog\emx\include\signal.h d:\prog\emx\include\sys/socket.h \
+ d:\prog\emx\include\sys/uio.h d:\prog\emx\include\netinet/in.h \
+ d:\prog\emx\include\sys/param.h d:\prog\emx\include\os2.h \
+ d:\prog\emx\include\os2emx.h d:\prog\emx\include\os2thunk.h tools.h \
+ cbuffer.h list.h pesstream.h
+pesstream.cpp :
+d:\prog\emx\include\stdlib.h :
+d:\prog\emx\include\malloc.h :
+d:\prog\emx\include\unistd.h :
+d:\prog\emx\include\stdio.h :
+d:\prog\emx\include\string.h :
+d:\prog\emx\include\math.h :
+d:\prog\emx\include\pthread.h :
+d:\prog\emx\include\sys/cdefs.h :
+d:\prog\emx\include\sys/types.h :
+d:\prog\emx\include\sys/time.h :
+d:\prog\emx\include\time.h :
+d:\prog\emx\include\sys/signal.h :
+d:\prog\emx\include\sys/select.h :
+d:\prog\emx\include\limits.h :
+d:\prog\emx\include\netdb.h :
+d:\prog\emx\include\errno.h :
+d:\prog\emx\include\sys/errno.h :
+d:\prog\emx\include\signal.h :
+d:\prog\emx\include\sys/socket.h :
+d:\prog\emx\include\sys/uio.h :
+d:\prog\emx\include\netinet/in.h :
+d:\prog\emx\include\sys/param.h :
+d:\prog\emx\include\os2.h :
+d:\prog\emx\include\os2emx.h :
+d:\prog\emx\include\os2thunk.h :
+tools.h :
+cbuffer.h :
+list.h :
+pesstream.h :
